@@ -33,7 +33,7 @@ function enqueue_script(): void {
 		dirname( __DIR__ ) . '/app/dist',
 		'app/src/main.js',
 		[
-			'handle' => 'vite-for-wp-vanilla',
+			'handle' => 'vite-for-wp-vue',
 			'in-footer' => true,
 		]
 	);
