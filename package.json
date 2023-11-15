@@ -9,9 +9,9 @@
 		"preview": "vite preview"
 	},
 	"devDependencies": {
-		"@kucrut/vite-for-wp": "^0.7.0",
-		"@vitejs/plugin-vue": "^4.2.3",
-		"vite": "^4.4.11",
-		"vue": "^3.3.4"
+		"@kucrut/vite-for-wp": "^0.8.0",
+		"@vitejs/plugin-vue": "^4.4.1",
+		"vite": "^4.5.0",
+		"vue": "^3.3.8"
 	}
 }
